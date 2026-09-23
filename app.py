@@ -47,14 +47,14 @@ def home():
 
     <body>
         <div class="card">
-            <h1>Привет!</h1>
+            <h1>hello👋!</h1>
 
             <p>
                 it's my bio.<br>
                Here are my contacts 
             </p>
 
-            <h2>Контакты</h2>
+            <h2>contacts</h2>
                 📞 Телефон +79992339777
             </a>
 
