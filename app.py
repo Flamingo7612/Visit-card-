@@ -50,9 +50,8 @@ def home():
             <h1>Привет!</h1>
 
             <p>
-                Это мой личный сайт.<br>
-                Здесь можно найти информацию обо мне
-                и мои контакты.
+                it's my bio.<br>
+               Here are my contacts 
             </p>
 
             <h2>Контакты</h2>
@@ -60,11 +59,11 @@ def home():
             </a>
 
             <a href="https://t.me/tamletamak76/" target="_blank">
-                ✈️ Telegram
+                 tg✈️
             </a>
 
             <a href="https://vk.ru/hanofkazan" target="_blank">
-                🔵 ВКонтакте
+                Vk🔵
             </a>
         </div>
     </body>
