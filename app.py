@@ -55,7 +55,7 @@ def home():
             </p>
 
             <h2>contacts</h2>
-                📞 Телефон +79992339777
+                📞 telephone  +79992339777
             </a>
 
             <a href="https://t.me/tamletamak76/" target="_blank">
